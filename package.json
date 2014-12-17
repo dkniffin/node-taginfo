@@ -1,0 +1,25 @@
+{
+  "name": "taginfo",
+  "version": "1.0.0",
+  "description": "Node.js taginfo interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oddityoverseer13/node-taginfo"
+  },
+  "keywords": [
+    "taginfo",
+    "api",
+    "osm",
+    "openstreetmap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oddityoverseer13/node-taginfo/issues"
+  },
+  "homepage": "https://github.com/oddityoverseer13/node-taginfo"
+}
